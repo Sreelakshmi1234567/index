@@ -1,0 +1,16 @@
+.content{
+    background-color: white;
+    height: 200px;
+    width: 700px;
+    margin-top:250px;
+    margin-left: 350px;
+    padding: 50px;
+}
+button{
+    background-color: blue;
+    color: white;
+}
+.button{
+    margin-left: 400px;
+    bottom: 300px;
+}
